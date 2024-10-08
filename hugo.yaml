@@ -1,0 +1,18 @@
+baseURL: https://shaneyao.com/
+defaultContentLanguage: zh-CN
+languages:
+  zh-CN:
+    languageCode: zh-cn
+    languageName: 中文
+    params:
+      profileMode:
+        title: "中文标题"
+        subtitle: "副标题"
+      
+
+title: Shane Yao
+theme: ["PaperMod"]
+module:
+  mounts:
+  - source: content/posts
+    target: content/posts
