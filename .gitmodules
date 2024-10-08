@@ -3,4 +3,5 @@
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "content"]
 	path = content
-	url = git@github.com:future0906/quartz_content
+	url = ../quartz_content
+	branch = main
