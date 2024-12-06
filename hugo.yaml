@@ -16,3 +16,10 @@ module:
   mounts:
   - source: content/posts
     target: content/posts
+
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
