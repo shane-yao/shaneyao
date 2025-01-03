@@ -1,0 +1,10 @@
+languageCode: "zh-Hans"
+languageName: "中文"
+baseURL: "https://yaozhixiang.com"
+params:
+  author:
+    name: "姚志翔"
+    links:
+    - x-twitter: "https://twitter.com"
+    - apple: "https://twitter.com"
+weight: 20

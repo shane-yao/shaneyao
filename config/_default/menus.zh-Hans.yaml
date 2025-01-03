@@ -1,0 +1,7 @@
+main:
+- name: "主页"
+  pageRef: /
+  weight: 10
+- name: "笔记"
+  pageRef: https://notes.shaneyao.com
+  weight: 20
