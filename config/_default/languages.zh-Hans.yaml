@@ -7,4 +7,4 @@ params:
     links:
     - x-twitter: "https://twitter.com"
     - apple: "https://twitter.com"
-weight: 20
+weight: 5

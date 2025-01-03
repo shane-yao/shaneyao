@@ -3,5 +3,5 @@
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "themes/congo"]
 	path = themes/congo
-	url = https://github.com/jpanther/congo.git
+	url = ../congo.git
 	branch = stable
