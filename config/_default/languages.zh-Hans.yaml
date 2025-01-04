@@ -3,8 +3,8 @@ languageName: "中文"
 baseURL: "https://yaozhixiang.com"
 params:
   author:
-    name: "姚志翔"
+    name: "CC Yiu"
     links:
-    - x-twitter: "https://twitter.com"
-    - apple: "https://twitter.com"
+    - github: "https://github.com/future0906"
+    - x-twitter: "https://x.com/Shane_Yao"
 weight: 5
