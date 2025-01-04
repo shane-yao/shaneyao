@@ -1,6 +1,7 @@
 ---
 title: 笔记整理、DataHoarder和NAS
 author: shane
+date: 2022-09-12
 aliases: /2022/09/12/笔记整理、datahoarder和nas/
 categories:
   - 元学习

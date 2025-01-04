@@ -1,6 +1,7 @@
 ---
 title: 二奶机搭建和Incredibuild家用配置
 author: shane
+date: 2023-01-05
 aliases: /2023/01/05/incredibuild_amd_processor/
 categories:
   - HomeLab

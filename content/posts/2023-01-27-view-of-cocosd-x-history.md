@@ -1,6 +1,7 @@
 ---
 title: Cocos2D-X历史回顾
 author: shane
+date: 2023-01-27
 categories:
   - 游戏开发
 

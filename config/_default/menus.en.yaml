@@ -1,0 +1,10 @@
+main:
+- name: "Home"
+  pageRef: /
+  weight: 1
+- name: "Posts"
+  pageRef: /posts
+  weight: 5
+- name: "Notes"
+  url: "https://notes.shaneyao.com"
+  weight: 20

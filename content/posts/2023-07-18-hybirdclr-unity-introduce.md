@@ -1,6 +1,7 @@
 ---
 title: HybridCLR浅析
 author: shane
+date: 2023-07-18
 aliases: /2023/07/18/hybirdclr-unity-introduce/
 categories:
   - 游戏开发

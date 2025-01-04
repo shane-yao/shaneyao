@@ -1,6 +1,7 @@
 ---
 title: 入了一台官翻的Macbook pro M1
 author: shane
+date: 2023-02-04
 aliases: /2023/02/04/macbook-purchase-experience/
 categories:
   - 日常

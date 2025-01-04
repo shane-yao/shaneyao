@@ -1,5 +1,10 @@
 languageCode: "en"
 languageName: "English"
 baseURL: "https://shaneyao.com/"
-
+params:
+  author:
+    name: "Shane Yao"
+    links:
+    - github: "https://github.com/future0906"
+    - x-twitter: "https://x.com/Shane_Yao"
 weight: 10
