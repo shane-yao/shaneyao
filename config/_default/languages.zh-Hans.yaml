@@ -1,10 +1,16 @@
 languageCode: "zh-Hans"
 languageName: "中文"
 baseURL: "https://yaozhixiang.com"
+title: "翔游空间"
 params:
   author:
     name: "CC Yiu"
+    headline: "一个在虚幻世界真实的实体"
     links:
-    - github: "https://github.com/future0906"
+    - github: "https://github.com/shane-yao"
     - x-twitter: "https://x.com/Shane_Yao"
+  homepage:
+    showRecent: true
+    layout: "profile"
+
 weight: 5

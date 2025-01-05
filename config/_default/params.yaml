@@ -1,3 +1,4 @@
 homepage:
   showRecent: true
   layout: "profile"
+colorScheme: "Slate"
