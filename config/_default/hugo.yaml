@@ -2,14 +2,7 @@ defaultContentLanguage: zh-Hans
 
 params:
   displayFullLangName: true
-  socialIcons:
-    - name: GitHub
-      title: View Source on Github
-      url: "https://github.com/future0906"
-    - name: X
-      title: Twitter
-      url: "https://x.com/Shane_Yao"
-      
+
 
 title: Shane's Blog
 theme: ["congo"]
