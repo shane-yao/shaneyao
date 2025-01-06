@@ -3,8 +3,6 @@ defaultContentLanguage: zh-Hans
 params:
   displayFullLangName: true
 
-
-
 theme: ["congo"]
 module:
   mounts:
