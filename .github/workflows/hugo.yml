@@ -59,13 +59,7 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact(zh-hans)
-        if: ${{ github.repository == 'future0906/homepages-cn' }}
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public/zh-hans
       - name: Upload artifact
-        if: ${{ github.repository == 'future0906/homepages' }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public/en
