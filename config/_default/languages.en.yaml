@@ -1,6 +1,6 @@
 languageCode: "en"
 languageName: "English"
-baseURL: "https://shaneyao.com"
+
 title: Shane's Blog
 params:
   author:

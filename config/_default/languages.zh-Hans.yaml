@@ -1,6 +1,5 @@
 languageCode: "zh-Hans"
 languageName: "中文"
-baseURL: "https://yaozhixiang.com"
 title: "翔游空间"
 params:
   author:

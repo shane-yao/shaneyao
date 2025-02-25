@@ -6,5 +6,5 @@ main:
   pageRef: /posts
   weight: 5
 - name: "笔记"
-  url: "https://notes.shaneyao.com"
+  url: "https://yaozhixiang.com"
   weight: 20

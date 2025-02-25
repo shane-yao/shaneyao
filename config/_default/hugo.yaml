@@ -1,13 +1,15 @@
 defaultContentLanguage: zh-Hans
-
+baseURL: "https://shaneyao.com"
 params:
   displayFullLangName: true
 
 theme: ["congo"]
 module:
   mounts:
-  - source: content
-    target: content
+    
+  - source: content/posts
+    target: content/posts
+
 
 markup:
   goldmark:
