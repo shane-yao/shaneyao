@@ -1,7 +1,7 @@
 ---
 title: 从Jekyll切换到Quartz、Hugo作为静态网站生成器
 date: 2024-07-29
-aliases:
+categories: 网站
 ---
 ## 为什么要用Jekyll
 Github集成，本地可以不用配置环境。Jekyll最早进入中文博客圈就是因为github默认使用Jekyll生成静态页面。

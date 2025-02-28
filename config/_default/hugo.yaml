@@ -7,8 +7,8 @@ theme: ["congo"]
 module:
   mounts:
     
-  - source: content/posts
-    target: content/posts
+  - source: content
+    target: content
 
 
 markup:

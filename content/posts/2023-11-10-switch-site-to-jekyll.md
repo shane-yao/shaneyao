@@ -3,8 +3,7 @@ title: 从Wordpress切换到Jekyll
 date: '2023-11-10T01:39:40+08:00'
 author: shane
 layout: article
-categories:
-    - 未分类
+categories: 网站
 key: 2023-11-10-switch-site-to-jekyll
 ---
 

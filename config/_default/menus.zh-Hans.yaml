@@ -8,3 +8,7 @@ main:
 - name: "笔记"
   url: "https://yaozhixiang.com"
   weight: 20
+
+footer:
+- name: "关于本站"
+  pageRef: "/about/"
