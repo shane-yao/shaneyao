@@ -5,8 +5,8 @@ main:
 - name: "博客"
   pageRef: /posts
   weight: 5
-- name: "笔记"
-  url: "https://yaozhixiang.com"
+- name: "游戏开发"
+  url: "https://gamedev.shaneyao.com"
   weight: 20
 
 footer:

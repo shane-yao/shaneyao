@@ -5,3 +5,6 @@
 	path = themes/congo
 	url = https://github.com/jpanther/congo.git
 	branch = stable
+[submodule "shane_pkm"]
+	path = shane_pkm
+	url = git@github.com:shane-yao/shane_pkm.git

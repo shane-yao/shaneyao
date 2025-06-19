@@ -7,9 +7,11 @@ theme: ["congo"]
 module:
   mounts:
     
-  - source: content
-    target: content
+  - source: shane_pkm\Publish\Posts
+    target: content\posts
 
+  - source: shane_pkm\Publish\Pages\About
+    target: content\about
 
 markup:
   goldmark:
