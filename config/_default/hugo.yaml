@@ -6,12 +6,10 @@ params:
 theme: ["congo"]
 module:
   mounts:
-    
-  - source: shane_pkm\Publish\Posts
-    target: content\posts
-
-  - source: shane_pkm\Publish\Pages\About
-    target: content\about
+  - source: shane_pkm/Publish/Posts
+    target: content/posts
+  - source: shane_pkm/Publish/Pages/About
+    target: content/about
 
 markup:
   goldmark:
