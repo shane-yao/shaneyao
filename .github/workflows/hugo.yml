@@ -46,8 +46,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           token: ${{ secrets.HUGO_CONTENT_PAT }}
           submodules: recursive
+      - name: Update submodules
+        run: git submodule update --recursive --remote
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
