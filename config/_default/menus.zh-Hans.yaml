@@ -8,6 +8,10 @@ main:
 - name: "游戏开发"
   url: "https://gamedev.shaneyao.com"
   weight: 20
+  
+- name: "笔记"
+  url: "https://notes.shaneyao.com"
+  weight: 20
 
 footer:
 - name: "关于本站"
