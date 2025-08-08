@@ -35,7 +35,7 @@ jobs:
     environment:
       name: github-pages
     env:
-      HUGO_VERSION: 0.135.0
+      HUGO_VERSION: 0.148.0
     steps:
       - name: Install Hugo CLI
         run: |

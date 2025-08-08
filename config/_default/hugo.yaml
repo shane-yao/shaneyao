@@ -3,7 +3,9 @@ baseURL: "https://shaneyao.com"
 params:
   displayFullLangName: true
 
-theme: ["congo"]
+theme: 
+ - congo
+
 module:
   mounts:
   - source: shane_pkm/Publish/Posts
@@ -15,3 +17,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
