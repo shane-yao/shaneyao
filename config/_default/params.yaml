@@ -20,6 +20,7 @@ homepage:
   showRecent: false
   recentLimit: 5
 article:
+  showTaxonomies: true
   showDate: true
   showDateUpdated: false
   showAuthor: true
@@ -36,6 +37,7 @@ article:
   showWordCount: false
   showComments: false
 list:
+  showTaxonomies: true
   showBreadcrumbs: false
   showSummary: false
   showTableOfContents: false
@@ -51,3 +53,4 @@ taxonomy:
 fathomAnalytics: {}
 plausibleAnalytics: {}
 verification: {}
+mainSections : ["posts"]
