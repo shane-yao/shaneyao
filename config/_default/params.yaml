@@ -53,4 +53,4 @@ taxonomy:
 fathomAnalytics: {}
 plausibleAnalytics: {}
 verification: {}
-mainSections : ["posts"]
+mainSections : ["posts", "gamedev"]

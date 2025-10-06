@@ -6,8 +6,5 @@ main:
   pageRef: /posts
   weight: 5
 - name: "GameDev"
-  url: "https://gamedev.shaneyao.com"
-  weight: 20
-- name: "Notes"
-  url: "https://notes.shaneyao.com"
+  pageRef: /gamedev
   weight: 20

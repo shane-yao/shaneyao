@@ -10,6 +10,8 @@ module:
   mounts:
   - source: shane_pkm/Publish/Posts
     target: content/posts
+  - source: shane_pkm/Publish/GameDev
+    target: content/gamedev
 markup:
   goldmark:
     renderer:

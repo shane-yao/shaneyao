@@ -6,13 +6,9 @@ main:
   pageRef: /posts
   weight: 5
 - name: "游戏开发"
-  url: "https://gamedev.shaneyao.com"
+  pageRef: /gamedev
   weight: 20
   
-- name: "笔记"
-  url: "https://notes.shaneyao.com"
-  weight: 20
-
 footer:
 - name: "关于本站"
   pageRef: "/about/"
