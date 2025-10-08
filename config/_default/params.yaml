@@ -22,7 +22,7 @@ homepage:
 article:
   showTaxonomies: true
   showDate: true
-  showDateUpdated: false
+  showDateUpdated: true
   showAuthor: true
   showBreadcrumbs: false
   showDraftLabel: true
@@ -31,9 +31,8 @@ article:
   showHeadingAnchors: true
   showPagination: true
   invertPagination: false
-  showReadingTime: true
-  showTableOfContents: false
-  showTaxonomies: false
+  showReadingTime: false
+  showTableOfContents: true
   showWordCount: false
   showComments: false
 list:
@@ -41,7 +40,6 @@ list:
   showBreadcrumbs: false
   showSummary: false
   showTableOfContents: false
-  showTaxonomies: false
   groupByYear: true
   paginationWidth: 1
 sitemap:

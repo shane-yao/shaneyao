@@ -17,3 +17,6 @@ markup:
     renderer:
       unsafe: true
 
+services:
+  googleAnalytics:
+    id: 'G-9BYF76TH10'
