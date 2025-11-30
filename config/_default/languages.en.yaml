@@ -3,10 +3,10 @@ languageName: "English"
 
 title: Shane's Blog
 params:
-  author:
-    name: "Shane Yao"
-    headline: "A real entity in unreal world"
-    links:
-    - github: "https://github.com/future0906"
-    - x-twitter: "https://x.com/Shane_Yao"
+  author: "Shane Yao"
+    # name: "Shane Yao"
+    # headline: "A real entity in unreal world"
+    # links:
+    # - github: "https://github.com/future0906"
+    # - x-twitter: "https://x.com/Shane_Yao"
 weight: 10

@@ -2,12 +2,12 @@ languageCode: "zh-Hans"
 languageName: "中文"
 title: "翔游空间"
 params:
-  author: 
-    name: "阿肠"
-    headline: "一个在虚幻世界真实的实体"
-    links:
-    - github: "https://github.com/shane-yao"
-    - x-twitter: "https://x.com/Shane_Yao"
+  author: "阿肠"
+    # name: "阿肠"
+    # headline: "一个在虚幻世界真实的实体"
+    # links:
+    # - github: "https://github.com/shane-yao"
+    # - x-twitter: "https://x.com/Shane_Yao"
   homepage:
     showRecent: true
     layout: "profile"
