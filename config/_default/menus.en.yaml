@@ -8,3 +8,6 @@ main:
 - name: "GameDev"
   pageRef: /gamedev
   weight: 20
+- name: "Enthusiasm"
+  pageRef: /enthusiasm
+  weight: 20

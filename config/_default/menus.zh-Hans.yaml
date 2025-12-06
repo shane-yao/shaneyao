@@ -8,7 +8,9 @@ main:
 - name: "游戏开发"
   pageRef: /gamedev
   weight: 20
-  
+- name: "发烧"
+  pageRef: /enthusiasm
+  weight: 20
 footer:
 - name: "关于本站"
   pageRef: "/about/"

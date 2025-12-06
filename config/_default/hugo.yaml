@@ -12,6 +12,8 @@ module:
     target: content/posts
   - source: shane_pkm/Publish/GameDev
     target: content/gamedev
+  - source: shane_pkm/Publish/Enthusiasm
+    target: content/enthusiasm
 markup:
   goldmark:
     renderer:
