@@ -54,3 +54,20 @@ verification: {}
 mainSections : 
  - "posts"
  - "gamedev"
+
+
+giscus:
+  repo: "shane-yao/shaneyao"
+  repoId: "MDEwOlJlcG9zaXRvcnkyODkwNTg0NzI"
+  category: "Announcements"
+  categoryId: "DIC_kwDOETquqM4CzfkJ"
+  mapping: "pathname"
+  strict: "0"
+  reactionsEnabled: "1"
+  emitMetadata: "0"
+  inputPosition: "bottom"
+  lightTheme: "light"
+  darkTheme: "dark"
+  lang: "zh-CN"
+  discussionTitle: 欢迎来到评论区
+  discussionSubtitle: 感谢您的耐心阅读！如需交流，请留个评论吧！
