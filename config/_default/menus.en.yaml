@@ -11,3 +11,6 @@ main:
 - name: "Enthusiasm"
   pageRef: /enthusiasm
   weight: 20
+- name: "Issues"
+  pageRef: /issues
+  weight: 30

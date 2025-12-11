@@ -11,6 +11,9 @@ main:
 - name: "发烧"
   pageRef: /enthusiasm
   weight: 20
+- name: "问题"
+  pageRef: /issues
+  weight: 30
 footer:
 - name: "关于本站"
   pageRef: "/about/"
