@@ -34,7 +34,7 @@ article:
   showReadingTime: false
   showTableOfContents: true
   showWordCount: false
-  showComments: false
+  showComments: true
 list:
   showTaxonomies: true
   showBreadcrumbs: false
@@ -54,6 +54,7 @@ verification: {}
 mainSections : 
  - "posts"
  - "gamedev"
+ 
 
 
 giscus:
