@@ -1,0 +1,7 @@
+.section-entry {
+    background: var(--tertiary);
+}
+
+.dark .section-entry {
+    background: var(--theme);
+}
